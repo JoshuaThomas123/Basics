@@ -12,4 +12,7 @@ Q7)Hashmaps in java are stored in key/value, there are also, special keywords to
 Q8) Hashsets are similar to arraylist but have no duplicates, keywords: .add,.remove,.clear,.contains(if it exists),.size.
 Q9)Linklist is similar to arraylist but have more commands: .addFirst,.addLast,.removeFirst,.removeLast,.getFirst,.getLast.
 Q10)
+Q11)Stack in java is using a LIFO(last in first out) data structure,it uses keywords such as empty(returns true or false),peek(returns the element at the top of the stack),pop(remove and return top of the stack),push(push an element to the top of the stack),search(shows if a object exist in the stack).
+![image](https://github.com/user-attachments/assets/46958934-9f65-4ebf-887f-e72ef17373d2)
+Q12)Queue in java is using a FIFO(First in first out) data structure,it uses keywords such as isempty,add,contains,size,clear,remove,size.
 
