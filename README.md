@@ -9,5 +9,7 @@ Q6)Arraylist in java, is a resizable array(1D) which has it's own special keywor
 ****![image](https://github.com/user-attachments/assets/134892ef-f525-49bb-ab4f-24df2b091fca)
 Q7)Hashmaps in java are stored in key/value, there are also, special keywords to be called:.put(adding a new variable),.get(requested from the key variable),.remove(removing it form the key),.clear(clearing all information),.size(showing how many).
 ![image](https://github.com/user-attachments/assets/81af8d73-2093-4485-b25f-4414eb6091c3)
-Q8)
+Q8) Hashsets are similar to arraylist but have no duplicates, keywords: .add,.remove,.clear,.contains(if it exists),.size.
+Q9)Linklist is similar to arraylist but have more commands: .addFirst,.addLast,.removeFirst,.removeLast,.getFirst,.getLast.
+Q10)
 
